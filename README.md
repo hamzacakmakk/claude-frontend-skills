@@ -1,5 +1,7 @@
 # Frontend Skills for Claude Code
 
+[![Validate skills](https://github.com/hamzacakmakk/claude-frontend-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/hamzacakmakk/claude-frontend-skills/actions/workflows/validate.yml)
+
 Agent Skills that make Claude Code design interfaces the way a careful product designer would:
 decide on a direction first, build on a token system, cover every state, meet accessibility
 requirements, and avoid the look that gives AI-generated UI away.
